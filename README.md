@@ -1,2 +1,2 @@
 # uks-cihuy
-# Manuk
+# Full AI Njir
